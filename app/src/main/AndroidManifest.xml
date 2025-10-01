@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="24"
         tools:overrideLibrary="androidx.pdf, androidx.pdf.document.service, androidx.pdf.viewer.fragment" />
 
     <!-- Other configurations -->
